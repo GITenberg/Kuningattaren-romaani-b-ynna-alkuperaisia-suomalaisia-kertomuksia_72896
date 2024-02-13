@@ -1,0 +1,28 @@
+_repo: Kuningattaren-romaani-b-ynna-alkuperaisia-suomalaisia-kertomuksia_72896
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72896'
+language: fi
+pgterms:marc905: 20210303020548author
+pgterms:marc906: '1897'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aKuopio :$bKuopion Uusi Kirjapaino, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kuningattaren romaani : $b ynnä alkuperäisiä suomalaisia kertomuksia'
+url: http://www.gutenberg.org/ebooks/72896
